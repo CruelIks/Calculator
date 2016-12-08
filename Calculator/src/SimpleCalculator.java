@@ -4,7 +4,6 @@ import java.awt.GridLayout;
 public class SimpleCalculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Создаём панель
 		JPanel windowContent= new JPanel();
 		// Задаём менеджер отображения для этой панели
